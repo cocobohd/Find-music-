@@ -1,0 +1,4 @@
+export const ALLSONGSPUSH = "ALLSONGSPUSH"
+export const CURRENTSONG = "CURRENTSONG"
+export const PLAYNOW = "PLAYNOW"
+export const FILTERSONG = "FILTERSONG"
